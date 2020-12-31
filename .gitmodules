@@ -1,0 +1,3 @@
+[submodule "third-party/nvidia-nvafx"]
+	path = third-party/nvidia-nvafx
+	url = https://github.com/NVIDIA/BROADCAST-AFX-SDK.git
